@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/NANAIPRM?theme=dark&font=Sirin%20Stencil)
+
+
